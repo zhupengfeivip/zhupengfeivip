@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 联系我
-
-微信：zhupengfeivip
-
 
 ### Languages and Tools
 
@@ -29,3 +25,11 @@ Here are some ideas to get you started:
 ![jguadagno](https://github-readme-stats.vercel.app/api/top-langs?username=zhupengfeivip&show_icons=true&locale=cn&layout=compact "Language Stats - zhupengfeivip")
 
 ![jguadagno](https://github-readme-stats.vercel.app/api?username=zhupengfeivip&show_icons=true&locale=cn "GitHub - zhupengfeivip")
+
+### 联系我
+
+微信：zhupengfeivip  
+欢迎各位IT精英添加好友，共同学习进步。  
+
+
+

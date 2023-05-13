@@ -30,6 +30,5 @@ Here are some ideas to get you started:
 
 微信：zhupengfeivip  
 欢迎各位IT精英添加好友，共同学习进步。  
-
-
+<img src="wxchat.jpg" alt="wxchat" width="300" height="390" />
 
